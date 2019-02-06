@@ -2,14 +2,14 @@
 
 1. LargeInt Class in C++
 
-![](BeeSweeper-Fall2017/Images/Presentation/Slide1.jpg)
+![](LargeInt-Fall2018/Images/Presentation/Slide1.jpeg)
 
 2. Control NAO Robot
 
 ![](NAORobot-Spring2018/Images/Slide1.jpeg)
 
-
 3. Minesweeper in Java
 
+![](BeeSweeper-Fall2017/Images/Presentation/Slide1.jpg)
 
 4. Ethnography
