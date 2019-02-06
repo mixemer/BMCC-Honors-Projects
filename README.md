@@ -6,6 +6,10 @@
 
 2. Control NAO Robot
 
+![](NAORobot-Spring2018/Images/Sliders1.jpeg)
+
+
 3. Minesweeper in Java
+
 
 4. Ethnography
