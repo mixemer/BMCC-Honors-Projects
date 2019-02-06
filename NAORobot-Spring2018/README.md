@@ -1,19 +1,16 @@
-# BeeSweeper-new
-My version of minesweeper game
+# Nao Robot
 
-Check Final Report.pdf for more inforamtion about the project!
-
-![](Images/Slide1.jpg)
-![](Images/Slide2.jpg)
-![](Images/Slide3.jpg)
-![](Images/Slide4.jpg)
-![](Images/Slide5.jpg)
-![](Images/Slide6.jpg)
-![](Images/Slide7.jpg)
-![](Images/Slide8.jpg)
-![](Images/Slide9.jpg)
-![](Images/Slide10.jpg)
-![](Images/Slide11.jpg)
-![](Images/Slide12.jpg)
-![](Images/Slide13.jpg)
-![](Images/Slide14.jpg)
+![](Images/Slide1.jpeg)
+![](Images/Slide2.jpeg)
+![](Images/Slide3.jpeg)
+![](Images/Slide4.jpeg)
+![](Images/Slide5.jpeg)
+![](Images/Slide6.jpeg)
+![](Images/Slide7.jpeg)
+![](Images/Slide8.jpeg)
+![](Images/Slide9.jpeg)
+![](Images/Slide10.jpeg)
+![](Images/Slide11.jpeg)
+![](Images/Slide12.jpeg)
+![](Images/Slide13.jpeg)
+![](Images/Slide14.jpeg)
