@@ -6,7 +6,7 @@
 
 2. Control NAO Robot
 
-![](NAORobot-Spring2018/Images/Sliders1.jpeg)
+![](NAORobot-Spring2018/Images/Slide1.jpeg)
 
 
 3. Minesweeper in Java
